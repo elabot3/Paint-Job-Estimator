@@ -1,0 +1,9 @@
+
+    Gallons of paint: 5
+    Hours of Labor: 40.0
+    Paint charges: $133.75
+    Labor charges: $1,400.00
+    Tax: 95.86'
+    Total cost: 1,629.61
+    File: Candido_paintJobOutput.txt was created.
+    
